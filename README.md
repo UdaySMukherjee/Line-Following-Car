@@ -2,7 +2,7 @@
 
 Author: Uday Sankar Mukherjee
 
-![Line Following Bot](line_following_bot.jpg)
+![Line Following Bot](https://imgur.com/a/0RYU1LG)
 
 ## Description
 This Arduino project implements a line-following robot using infrared sensors. The robot is programmed to follow a line on the ground by detecting it with three infrared sensors placed underneath. Based on the readings from these sensors, the robot adjusts its movement to stay on the line.
@@ -28,7 +28,7 @@ This Arduino project implements a line-following robot using infrared sensors. T
 4. To stop the robot, turn off the power source or modify the code to include additional control features.
 
 ## Video Demo
-Watch the line following bot in action on [YouTube](https://www.youtube.com/watch?v=your_video_id).
+Watch the line following bot in action on [YouTube](https://youtu.be/FbBQNVRTlso).
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
